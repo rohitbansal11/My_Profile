@@ -47,3 +47,7 @@ Solan, Himachal Pradesh, India
 Shoolini University of Bio Technology and Management Sciences,
 Oachghat, Solan
 Bachelor of Technology - BTech, Computer Science · (2016 - 2020)
+
+Projects -
+Pml WebSite In mern  - https://pml-cab-app.herokuapp.com/activities
+
