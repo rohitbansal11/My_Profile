@@ -49,5 +49,6 @@ Oachghat, Solan
 Bachelor of Technology - BTech, Computer Science · (2016 - 2020)
 
 Projects -
-Pml WebSite In mern  - https://pml-cab-app.herokuapp.com/activities
+Fleet on Rent  WebSite In Mern Stack  - https://pml-fron.vercel.app/
+Kriptic Dfs WebSite In Mern Stack  - https://kripticdsf.vercel.app/
 
