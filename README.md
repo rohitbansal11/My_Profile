@@ -25,7 +25,7 @@ Thank you for viewing my profile.
       
 Saffron Chariot Technologies
 Mern Stack Developer
-December 2021 - Present (5 months)
+December 2021 - Present (7 months)
 India
 
 
