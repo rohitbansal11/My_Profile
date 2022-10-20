@@ -1,6 +1,6 @@
 # Hi, I'm Rohit 👋🏾 👩🏾‍💻
 
-<img src="https://res.cloudinary.com/djqw1f0jn/image/upload/v1666241426/kisspng-drawing-person-clip-art-good-work-5b5c8d4aaefa30.5805178815327921387167_ky95qv.png" alt="Rohit Bansal Mern Stack Developer">
+
 MERN STACK Developer  Summary A person embodied with zeal, enthusiasm, passion to prove and aim to reach the zenith of success is "B tech" in short. With my schooling done from Jawahar Navodaya Vidyalaya, I completed my graduation in Computer Science (Btech Computer Science) from Shoolini University. Currently I am Working as Mern Stack Developer In Saffron Chariot Technologies ,. Along with all this I have Four Certificates In Internship in Core Java form Secure Net Technologies , The Fundamental of digital marketing form Google Digital Garage , Internship in Web Designer From Infowiz Solution Pvt. Ltd And Web Development Boot Camp Completion certificate From Udemy. I am a person who has the potential to accept changes, adapt them, quick learner and is responsive in nature. Being a new person stepping into corporate I don't want to leave any stone unturned and will give my best to every field and sector I go into in near future.
 
 
