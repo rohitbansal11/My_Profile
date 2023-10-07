@@ -5,7 +5,7 @@ MERN STACK Developer  Summary A person embodied with zeal, enthusiasm, and passi
 
 
 ## Experience : <a href="https://github.com/rohitbansal11/My_Profile"><img align="left" width="150" height="200" src="https://res.cloudinary.com/djqw1f0jn/image/upload/v1666240627/pngegg_zkuzc5.png"></a>
-- Eminence Technology Mern Stack Developer August 2022 - Present  
+- Eminence Technology Mern Stack Developer August 2022 - August 2023  
 - Saffron Chariot Technologies Mern Stack Developer December 2021 - August 2022
 - Rex Web Solutions Frontend Developer September 2021 - December 2021 
 - INFOWIZ Web Designer March 2021 - August 2021 (6 months) Chandigarh, India
