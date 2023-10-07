@@ -11,7 +11,7 @@ MERN STACK Developer  Summary A person embodied with zeal, enthusiasm, and passi
 - INFOWIZ Web Designer March 2021 - August 2021 (6 months) Chandigarh, India
 - Secure-Net Technologies Application Developer in Core Java June 2019 - July 2019 (2 months) Solan, Himachal Pradesh, India
 
-## Project  : <a href="https://github.com/rohitbansal11/My_Profile"><img align="left" width="150" height="200" src="https://res.cloudinary.com/djqw1f0jn/image/upload/v1666240627/pngegg_zkuzc5.png"></a>
+## Project  : <a href="https://github.com/rohitbansal11/My_Profile"><img align="left" width="150" height="250" src="https://res.cloudinary.com/djqw1f0jn/image/upload/v1666240627/pngegg_zkuzc5.png"></a>
 - Fleet On Rent (cab Booking website)  
 - kriptic dfs lineUp Generator (Web Site)
 - Gudguru (Web site & App)
