@@ -7,11 +7,11 @@ MERN STACK Developer  Summary A person embodied with zeal, enthusiasm, and passi
 ## Experience : <a href="https://github.com/rohitbansal11/My_Profile"><img align="left" width="150" height="200" src="https://res.cloudinary.com/djqw1f0jn/image/upload/v1666240627/pngegg_zkuzc5.png"></a>
 - Eminence Technology Mern Stack Developer August 2022 - August 2023  
 - Saffron Chariot Technologies Mern Stack Developer December 2021 - August 2022
-- Rex Web Solutions Frontend Developer September 2021 - December 2021 
-- INFOWIZ Web Designer March 2021 - August 2021 (6 months) Chandigarh, India
+- Rex Web Solutions Frontend Developer June 2020 - December 2021 
+- INFOWIZ Web Designer Dec 2019 - May 2020 (6 months) Chandigarh, India
 - Secure-Net Technologies Application Developer in Core Java June 2019 - July 2019 (2 months) Solan, Himachal Pradesh, India
 
-## Project  : <a href="https://github.com/rohitbansal11/My_Profile"><img align="left" width="150" height="250" src="https://res.cloudinary.com/djqw1f0jn/image/upload/v1666240627/pngegg_zkuzc5.png"></a>
+## Project  : <a href="https://github.com/rohitbansal11/My_Profile"><img align="left" width="150" height="450" src="https://res.cloudinary.com/djqw1f0jn/image/upload/v1666240627/pngegg_zkuzc5.png"></a>
 - Fleet On Rent (cab Booking website)  
 - kriptic dfs lineUp Generator (Web Site)
 - Gudguru (Web site & App)
@@ -19,4 +19,12 @@ MERN STACK Developer  Summary A person embodied with zeal, enthusiasm, and passi
 - SchoolerOps
 - Bright Swipe
 - HBR
+- Strip Me 
+- Bewakoof
+- Mesho
+- Prints.ai
+- TMP ( Training Management Portal)
+- Weyrk
+
+
   
